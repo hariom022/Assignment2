@@ -1,0 +1,19 @@
+.text-input .css-mps6pm-MuiInputBase-input-MuiFilledInput-input{
+
+   
+    width: 180px;
+    background-color: white;
+    color: gray;
+    border-radius: 10px ;
+    text-decoration: none;
+    outline: none;
+  
+
+}
+.content-input{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 55px;
+
+}
